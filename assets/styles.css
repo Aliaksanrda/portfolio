@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Matter SQ TRIAL';
+    src: url('fonts/MatterSQTRIAL-Medium.woff2') format('woff2'),
+        url('fonts/MatterSQTRIAL-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Matter SQ TRIAL';
+    src: url('fonts/MatterSQTRIAL-Bold.woff2') format('woff2'),
+        url('fonts/MatterSQTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+ body {
+width: 800px;
+margin: 0 auto;
+ }
+
+ h1 {
+    font-family: 'Matter SQ TRIAL';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 75px;
+ }
